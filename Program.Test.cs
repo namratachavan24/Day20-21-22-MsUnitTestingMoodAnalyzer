@@ -18,4 +18,4 @@
     < ProjectReference Include = "..\MoodAnalyzer\Moodanalyzer.csproj" />
   </ ItemGroup >
 
-</ Project >
+</Project >
