@@ -18,7 +18,6 @@ namespace MoodAnalyzerTest
             string result = moodAnalyzer.AnalyseMood();
 
             Assert.AreEqual(result, ExpectedOutput);
-
         }
     }
 }
