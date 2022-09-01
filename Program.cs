@@ -10,5 +10,4 @@ namespace Moodanalyzer
     }
 
 }
-Footer
-© 2022 GitHub, Inc.
+
