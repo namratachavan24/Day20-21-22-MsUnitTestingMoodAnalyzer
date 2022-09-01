@@ -10,11 +10,7 @@ namespace Moodanalyzer
     {
         private const string message = "I am in Sad Mood";
         private string testmessage = "";
-        //public string Message
-        //{ 
-        //    get { return message; } 
-        //    set { message = value; }
-        //}
+       
         public MoodAnalyzer()
         {
 
