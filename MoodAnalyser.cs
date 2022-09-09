@@ -19,7 +19,6 @@ namespace Moodanalyzer
             {
                 return "Sad";
             }
-
         }
     }
 }
